@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Github-Users-React/static/css/main.bf3417f2.css",
+    "main.js": "/Github-Users-React/static/js/main.86780f3d.js",
+    "static/media/background.jpg": "/Github-Users-React/static/media/background.5f58a3c5850113833dc2.jpg",
+    "index.html": "/Github-Users-React/index.html",
+    "main.bf3417f2.css.map": "/Github-Users-React/static/css/main.bf3417f2.css.map",
+    "main.86780f3d.js.map": "/Github-Users-React/static/js/main.86780f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3417f2.css",
+    "static/js/main.86780f3d.js"
+  ]
+}
